@@ -1,0 +1,216 @@
+                    Logit Data                    
+==================================================
+Attribute       Type         Levels
+-----------------------------------
+Attribute 1    Linear          1
+Attribute 2    Linear          1
+Attribute 3    Linear          1
+Attribute 4    Linear          1
+Attribute 5    Linear          1
+Attribute 6    Linear          1
+
+6 parameters to be estimated.
+
+528 total units.
+Average of 2 alternatives in each of 10 sets per unit.
+3168 expanded tasks in total.
+
+Table of choice data pooled across units:
+Choice  Count   Pct.
+--------------------
+   1    2640   83.33%
+   2    528    16.67%
+
+      MCMC Inference for Hierarchical Logit       
+==================================================
+Total Iterations:          10000
+Draws used in estimation:  5000
+Units:                     528
+Parameters per unit:       6
+Task weight:               5
+Constraints not in effect.
+Draws not saved.
+Prior degrees of freedom:  5
+Prior variance:            2
+
+MCMC Iteration Beginning...
+                    Logit Data                    
+==================================================
+Attribute       Type         Levels
+-----------------------------------
+Attribute 1    Linear          1
+Attribute 2    Linear          1
+Attribute 3    Linear          1
+Attribute 4    Linear          1
+Attribute 5    Linear          1
+Attribute 6    Linear          1
+
+6 parameters to be estimated.
+
+528 total units.
+Average of 2 alternatives in each of 10 sets per unit.
+3168 expanded tasks in total.
+
+Table of choice data pooled across units:
+Choice  Count   Pct.
+--------------------
+   1    2640   83.33%
+   2    528    16.67%
+
+      MCMC Inference for Hierarchical Logit       
+==================================================
+Total Iterations:          10000
+Draws used in estimation:  5000
+Units:                     528
+Parameters per unit:       6
+Task weight:               5
+Constraints not in effect.
+Draws not saved.
+Prior degrees of freedom:  5
+Prior variance:            2
+
+MCMC Iteration Beginning...
+                    Logit Data                    
+==================================================
+Attribute       Type         Levels
+-----------------------------------
+Attribute 1    Linear          1
+Attribute 2    Linear          1
+Attribute 3    Linear          1
+Attribute 4    Linear          1
+Attribute 5    Linear          1
+Attribute 6    Linear          1
+
+6 parameters to be estimated.
+
+528 total units.
+Average of 2 alternatives in each of 10 sets per unit.
+3168 expanded tasks in total.
+
+Table of choice data pooled across units:
+Choice  Count   Pct.
+--------------------
+   1    1056   33.33%
+   2    2112   66.67%
+
+      MCMC Inference for Hierarchical Logit       
+==================================================
+Total Iterations:          10000
+Draws used in estimation:  5000
+Units:                     528
+Parameters per unit:       6
+Task weight:               5
+Constraints not in effect.
+Draws not saved.
+Prior degrees of freedom:  5
+Prior variance:            2
+
+MCMC Iteration Beginning...
+                    Logit Data                    
+==================================================
+Attribute       Type         Levels
+-----------------------------------
+Attribute 1    Linear          1
+Attribute 2    Linear          1
+Attribute 3    Linear          1
+Attribute 4    Linear          1
+Attribute 5    Linear          1
+Attribute 6    Linear          1
+
+6 parameters to be estimated.
+
+528 total units.
+Average of 2 alternatives in each of 10 sets per unit.
+3168 expanded tasks in total.
+
+Table of choice data pooled across units:
+Choice  Count   Pct.
+--------------------
+   1    1056   33.33%
+   2    2112   66.67%
+
+      MCMC Inference for Hierarchical Logit       
+==================================================
+Total Iterations:          10000
+Draws used in estimation:  5000
+Units:                     528
+Parameters per unit:       6
+Task weight:               5
+Constraints not in effect.
+Draws not saved.
+Prior degrees of freedom:  5
+Prior variance:            2
+
+MCMC Iteration Beginning...
+                    Logit Data                    
+==================================================
+Attribute       Type         Levels
+-----------------------------------
+Attribute 1    Linear          1
+Attribute 2    Linear          1
+Attribute 3    Linear          1
+Attribute 4    Linear          1
+Attribute 5    Linear          1
+Attribute 6    Linear          1
+
+6 parameters to be estimated.
+
+528 total units.
+Average of 2 alternatives in each of 10 sets per unit.
+3168 expanded tasks in total.
+
+Table of choice data pooled across units:
+Choice  Count   Pct.
+--------------------
+   1    1056   33.33%
+   2    2112   66.67%
+
+      MCMC Inference for Hierarchical Logit       
+==================================================
+Total Iterations:          10000
+Draws used in estimation:  5000
+Units:                     528
+Parameters per unit:       6
+Task weight:               5
+Constraints not in effect.
+Draws not saved.
+Prior degrees of freedom:  5
+Prior variance:            2
+
+MCMC Iteration Beginning...
+                    Logit Data                    
+==================================================
+Attribute       Type         Levels
+-----------------------------------
+Attribute 1    Linear          1
+Attribute 2    Linear          1
+Attribute 3    Linear          1
+Attribute 4    Linear          1
+Attribute 5    Linear          1
+Attribute 6    Linear          1
+
+6 parameters to be estimated.
+
+528 total units.
+Average of 2 alternatives in each of 10 sets per unit.
+3168 expanded tasks in total.
+
+Table of choice data pooled across units:
+Choice  Count   Pct.
+--------------------
+   1    1056   33.33%
+   2    2112   66.67%
+
+      MCMC Inference for Hierarchical Logit       
+==================================================
+Total Iterations:          10000
+Draws used in estimation:  5000
+Units:                     528
+Parameters per unit:       6
+Task weight:               5
+Constraints not in effect.
+Draws not saved.
+Prior degrees of freedom:  5
+Prior variance:            2
+
+MCMC Iteration Beginning...

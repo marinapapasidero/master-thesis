@@ -1,0 +1,21 @@
+Question,Brand,Influencer_Type,Platform,Follower_Count,Shared_pers_ex,Discount
+Q5,Brand A,Cosmetologist,Instagram,195K,No,No
+Q5,Brand B,Beauty Influence,Instagram,195K,Positive,10%
+Q6,Brand A,Cosmetologist,TikTok,38K,No,10%
+Q6,Brand B,Dermatologist,Instagram,38K,No,10%
+Q7,Brand A,Cosmetologist,Instagram,195K,No,No
+Q7,Brand B,Dermatologist,TikTok,195K,Positive,No
+Q8,Brand A,Dermatologist,TikTok,195K,Positive,10%
+Q8,Brand B,Beauty Influence,Instagram,900K,Positive,10%
+Q9,Brand A,Beauty Influence,TikTok,900K,No,10%
+Q9,Brand B,Cosmetologist,Instagram,38K,No,20%
+Q10,Brand A,Beauty Influence,TikTok,38K,No,No
+Q10,Brand B,Dermatologist,Instagram,38K,No,10%
+Q11,Brand A,Beauty Influence,TikTok,195K,No,10%
+Q11,Brand B,Cosmetologist,Instagram,38K,No,20%
+Q12,Brand A,Dermatologist,TikTok,195K,No,10%
+Q12,Brand B,Beauty Influence,Instagram,900K,No,10%
+Q13,Brand A,Cosmetologist,Instagram,195K,Positive,20%
+Q13,Brand B,Dermatologist,Instagram,38K,Positive,20%
+Q14,Brand A,Beauty Influence,Instagram,195K,No,20%
+Q14,Brand B,Cosmetologist,TikTok,38K,Positive,20%

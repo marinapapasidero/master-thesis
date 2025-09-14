@@ -1,6 +1,6 @@
 # Master Thesis - Data Science & Marketing Analytics  
 
-This repository contains the materials, code, and data used for my Master's Thesis at Erasmus School of Economics, Erasmus University Rotterdam.  
+This repository contains the materials, code, and data used for my Data Science and Marketing Analytics Master's Thesis at Erasmus School of Economics, Erasmus University Rotterdam.  
 
 **Thesis Title:**  
 *The Social Glow-Up: The Role of Digital Marketing Practices in Shaping Consumer Preferences and Brand Reputation within the Skincare Sector – A Choice-Based Conjoint Analysis*  
